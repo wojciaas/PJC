@@ -1,0 +1,21 @@
+# ninja log v5
+0	52	1686745995214055375	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	cb7c0e084ad74d87
+0	52	1686745995214055375	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	cb7c0e084ad74d87
+53	47458	1686746042620042641	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	2984ef3eec26a193
+53	47458	1686746042620042641	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	2984ef3eec26a193
+47460	47627	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	521b3eb596676205
+47460	47627	0	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	521b3eb596676205
+47627	47686	1686746042848241030	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6413123ecc1df3d2
+47627	47686	1686746042848241030	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6413123ecc1df3d2
+47686	47739	1686746042900753305	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a621096e89d48148
+47686	47739	1686746042900753305	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a621096e89d48148
+47739	47797	1686746042959546005	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b520bb8e60958c08
+47739	47797	1686746042959546005	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b520bb8e60958c08
+47797	47852	1686746043014361667	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	45b18d6fc57bc20
+47797	47852	1686746043014361667	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	45b18d6fc57bc20
+47852	47912	1686746043073842752	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2aa449a594a399d3
+47852	47912	1686746043073842752	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2aa449a594a399d3
+47912	47998	1686746043159510530	CMakeFiles/fmt-populate-complete	1eade8cfcc3540ca
+47912	47998	1686746043159510530	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1eade8cfcc3540ca
+47912	47998	1686746043159510530	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	1eade8cfcc3540ca
+47912	47998	1686746043159510530	/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1eade8cfcc3540ca

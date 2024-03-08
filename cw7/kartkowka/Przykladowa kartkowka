@@ -1,0 +1,11 @@
+utworzyc strukture z atrybutami imie, nazwisko, ska
+utworzyc konstruktor, konstruktor kopiujacy ustawiajacy na sztywno wartosci name, surname i destruktor
+utworzyc vec sparapetryzowany na studentow
+mapa sparamatryzowana na int M<int, V<int>> - <snum, oceny>
+znalezienie studenka z najwyzsza srednia wypluwa snumber
+szukamy studenta z najwieksza srednia po esce
+utworzyc plik o nazwie eska studenta z najwyzsza srednia
+w pliku zapisac imie i nazwisko tego studenta
+
+
+M<set, V<int>>

@@ -1,0 +1,26 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-11 -G "CodeBlocks - Unix Makefiles" -S "/Users/wojciechregula/Desktop/PJATK/SEM II/PJC" -B "/Users/wojciechregula/Desktop/PJATK/SEM II/PJC/cmake-build-debug"
+[ 11%] Performing update step for 'fmt-populate'
+fatal: bad object refs/heads/master 2
+CMake Error at /Users/wojciechregula/Desktop/PJATK/SEM II/PJC/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/tmp/fmt-populate-gitupdate.cmake:175 (execute_process):
+  execute_process failed command indexes:
+
+    1: "Child return code: 128"
+
+
+
+make[2]: *** [fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update] Error 1
+make[1]: *** [CMakeFiles/fmt-populate.dir/all] Error 2
+make: *** [all] Error 2
+
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FetchContent.cmake:1624 (message):
+  Build step for fmt failed: 2
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FetchContent.cmake:1764:EVAL:2 (__FetchContent_directPopulate)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FetchContent.cmake:1764 (cmake_language)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FetchContent.cmake:1978 (FetchContent_Populate)
+  CMakeLists.txt:14 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/wojciechregula/Desktop/PJATK/SEM II/PJC/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/wojciechregula/Desktop/PJATK/SEM II/PJC/cmake-build-debug/CMakeFiles/CMakeError.log".

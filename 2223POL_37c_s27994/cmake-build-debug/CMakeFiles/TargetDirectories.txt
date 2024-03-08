@@ -1,0 +1,14 @@
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/PasswdManager.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/install.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/list_install_components.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/install.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/local.dir
+/Users/wojciechregula/Desktop/2223POL_37c_s27994/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/strip.dir
